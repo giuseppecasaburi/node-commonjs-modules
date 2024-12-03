@@ -4,4 +4,6 @@ function hobbies (firstHobbies, secondHobbies, thirdHobbies) {
     };
 };
 
-console.log(hobbies("calcio", "basket", "videogiochi"));
+// console.log(hobbies("calcio", "basket", "videogiochi"));
+
+module.exports = hobbies;
