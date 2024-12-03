@@ -1,0 +1,13 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Lavoriamo con i moduli commonjs esportando e importando valori e funzioni. Segui questi tre step creando i rispettivi files:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node name.js",
+    "dev": "node --watch name.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
