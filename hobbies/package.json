@@ -1,0 +1,13 @@
+{
+  "name": "hobbies",
+  "version": "1.0.0",
+  "main": "hobbies.js",
+  "scripts": {
+    "start": "node hobbies.js",
+    "dev": "node --watch hobbies.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
